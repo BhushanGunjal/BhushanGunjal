@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/BhushanGunjal/BhushanGunjal/blob/main/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="2000" /> 
+  <img src="https://github.com/BhushanGunjal/BhushanGunjal/blob/main/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="1000" /> 
 
   <h1>Hi there, I'm Bhushan Ananta Gunjal! 👋</h1>
   <h3>Manager (MT) at Reliance Retail | Bridging Data Science with Business Strategy</h3>
