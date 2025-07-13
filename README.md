@@ -87,22 +87,19 @@ Here are a few projects that highlight my skills and interests, particularly in 
 - **Nyay-AI - Responsible + Agentic AI**  
   Built a multi-agentic AI framework for targeted legal research, utilizing domain-specific RAGs for quick, accurate insights based on the Indian Penal Code. Focused on establishing **Responsible AI (RAI)** practices (bias detection, toxicity filtering, compliance) and integrated evaluation metrics for clarity and accuracy.  
   *Skills:* `Generative AI`, `Responsible AI`, `Multi-Agent Systems`, `RAG`, `Python`  
-  🔗 [Explore Nyay-AI](https://github.com/BhushanGunjal/Nyay-AI) *(Replace if private)*
+  🔗 [Explore Nyay-AI](https://github.com/BhushanGunjal/RAI_Legal_Agent)
 
 - **Gita - Illuminate Recommendation Engine**  
   Developed a Bhagavad Gita-based recommendation engine providing verse suggestions based on life situations. Utilized Cosine and Jaccard Similarity, Sentence Transformer embeddings, and text preprocessing. Integrated into a user-friendly Streamlit web application.  
   *Skills:* `Recommendation Systems`, `NLP`, `Streamlit`, `Python`, `Sentence Transformers`  
   🔗 [Explore Gita Illuminate](https://github.com/BhushanGunjal/Gita-Illuminate)
 
-- **Co-Occurrence Analysis Research Project**  
-  Implemented coherence, denoising, and community detection on a Market Basket Dataset, achieving better results than traditional methods like Apriori. Created multiple pipelines that produce and store artifacts, utilizing **MLOps techniques**.  
-  *Skills:* `MLOps`, `Market Basket Analysis`, `Data Pipelines`, `Python`  
-  🔗 [Explore Co-Occurrence Analysis](https://github.com/BhushanGunjal/Co-Occurrence-Analysis)
+- - **AI for Agriculture: An Operating System Approach**
+  Explored a comprehensive framework for applying AI across the agricultural lifecycle, covering pre-cultivation, cultivation, and post-cultivation phases. This conceptual "Operating System" utilizes diverse data inputs like soil composition, weather patterns, market trends, and satellite imagery to provide advisories on areas such as optimized crop selection, predictive planting, smart soil preparation, crop vitality maximization, pest control, yield forecasting, and efficient distribution management.
+The framework integrates various ML models including Classification, Regression, Neural Networks, Time Series Prediction, Reinforcement Learning, Genetic Algorithms [cite: 210][cite_start], Computer Vision, and Ensemble Learning to enhance agricultural efficiency and sustainability.
+  *Skills:* `AI/ML Frameworks`, `Data Integration`, `Predictive Analytics`, `Optimization`, `Computer Vision`, `Time Series Analysis`, `Reinforcement Learning`, `Genetic Algorithms`, `Agricultural Tech`
+  🔗 [View Presentation](https://www.canva.com/design/DAGOzar5jik/0PFFdcVl5bpb7CfO_qDd5g/edit?utm_content=DAGOzar5jik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- **Loan Approval Prediction Machine Learning**  
-  Developed a machine learning pipeline that improved loan approval prediction accuracy to 96.75% using a Random Forest model with optimized hyperparameters. Assessed performance using accuracy, confusion matrix, and classification report.  
-  *Skills:* `Machine Learning`, `Random Forest`, `Classification`, `Python`  
-  🔗 [Explore Loan Approval Prediction](https://github.com/BhushanGunjal/Loan-Approval-Prediction)
 
 ---
 
@@ -111,7 +108,7 @@ Here are a few projects that highlight my skills and interests, particularly in 
 I'm always open to collaborating on interesting data science projects, discussing new ideas in AI/ML, or exploring how data can drive business impact.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhushan-gunjal/)
-- 📧 [Email Me](mailto:bhushan.g25PGAI@jioinstitute.edu.in)
+- 📧 [Email Me](mailto:gunjalbhushan68@gmail.com)
 
 ---
 
