@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmN8EsgoV5mFjWdE8t/giphy.gif" width="60" /> 
+  <img src="https://github.com/BhushanGunjal/BhushanGunjal/blob/main/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="60" /> 
 
   <h1>Hi there, I'm Bhushan Ananta Gunjal! 👋</h1>
   <h3>Manager (MT) at Reliance Retail | Bridging Data Science with Business Strategy</h3>
@@ -94,7 +94,7 @@ Here are a few projects that highlight my skills and interests, particularly in 
   *Skills:* `Recommendation Systems`, `NLP`, `Streamlit`, `Python`, `Sentence Transformers`  
   🔗 [Explore Gita Illuminate](https://github.com/BhushanGunjal/Gita-Illuminate)
 
-- - **AI for Agriculture: An Operating System Approach**
+- **AI for Agriculture: An Operating System Approach**
   Explored a comprehensive framework for applying AI across the agricultural lifecycle, covering pre-cultivation, cultivation, and post-cultivation phases. This conceptual "Operating System" utilizes diverse data inputs like soil composition, weather patterns, market trends, and satellite imagery to provide advisories on areas such as optimized crop selection, predictive planting, smart soil preparation, crop vitality maximization, pest control, yield forecasting, and efficient distribution management.
 The framework integrates various ML models including Classification, Regression, Neural Networks, Time Series Prediction, Reinforcement Learning, Genetic Algorithms [cite: 210][cite_start], Computer Vision, and Ensemble Learning to enhance agricultural efficiency and sustainability.
   *Skills:* `AI/ML Frameworks`, `Data Integration`, `Predictive Analytics`, `Optimization`, `Computer Vision`, `Time Series Analysis`, `Reinforcement Learning`, `Genetic Algorithms`, `Agricultural Tech`
