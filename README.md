@@ -96,7 +96,7 @@ Here are a few projects that highlight my skills and interests, particularly in 
 
 - **AI for Agriculture: An Operating System Approach**
   Explored a comprehensive framework for applying AI across the agricultural lifecycle, covering pre-cultivation, cultivation, and post-cultivation phases. This conceptual "Operating System" utilizes diverse data inputs like soil composition, weather patterns, market trends, and satellite imagery to provide advisories on areas such as optimized crop selection, predictive planting, smart soil preparation, crop vitality maximization, pest control, yield forecasting, and efficient distribution management.
-The framework integrates various ML models including Classification, Regression, Neural Networks, Time Series Prediction, Reinforcement Learning, Genetic Algorithms [cite: 210][cite_start], Computer Vision, and Ensemble Learning to enhance agricultural efficiency and sustainability.
+The framework integrates various ML models including Classification, Regression, Neural Networks, Time Series Prediction, Reinforcement Learning, Genetic Algorithms, Computer Vision, and Ensemble Learning to enhance agricultural efficiency and sustainability.
   *Skills:* `AI/ML Frameworks`, `Data Integration`, `Predictive Analytics`, `Optimization`, `Computer Vision`, `Time Series Analysis`, `Reinforcement Learning`, `Genetic Algorithms`, `Agricultural Tech`
   🔗 [View Presentation](https://www.canva.com/design/DAGOzar5jik/0PFFdcVl5bpb7CfO_qDd5g/edit?utm_content=DAGOzar5jik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
